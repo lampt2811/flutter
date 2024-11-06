@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682618610115",
+    "project_id": "baitapcuoikhoa-e51d1",
+    "storage_bucket": "baitapcuoikhoa-e51d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682618610115:android:65eee8006a6f830af6dd76",
+        "android_client_info": {
+          "package_name": "com.example.vinemas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpKtjSB1AlVxA8mErt0Wp-7EL11rw2IeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

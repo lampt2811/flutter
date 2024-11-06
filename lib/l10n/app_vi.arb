@@ -1,0 +1,18 @@
+{
+    "@@locale": "vi",
+    "helloWorld": "Xin chào Thế Giới",
+    "helloVTI": "Xin chào Lam, hôm nay bạn khoẻ chứ ?",
+    "title_appbar": "Thông tin tài khoản",
+    "info_profile": "Thông tin cá nhân",
+    "info_name": "Họ & Tên",
+    "info_dob": "Ngày sinh",
+    "info_phone": "SĐT",
+    "info_email": "Email",
+    "info_gen": "Giới tính",
+    "info_gen_m": "Nam",
+    "info_gen_f": "Nữ",
+    "info_gen_o": "Khác",
+    "info_save":   "LƯU",
+    "info_setting": "Cài Đặt",
+    "info_languege": "Ngôn Ngữ"
+}

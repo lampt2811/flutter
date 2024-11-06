@@ -1,0 +1,18 @@
+{
+    "@@locale": "en",
+    "helloWorld": "Hello World!",
+    "helloVTI": "Hello Lam, how are you Today?",
+    "title_appbar": "Profile Screen",
+    "info_profile": "Info mation",
+    "info_name": "Full Name",
+    "info_dob": "Date of birth",
+    "info_phone": "Phone Number",
+    "info_email": "Email",
+    "info_gen": "Gender",
+    "info_gen_m": "Male",
+    "info_gen_f": "Female",
+    "info_gen_o": "Other",
+    "info_save":   "SAVE",
+    "info_setting": "Setting",
+    "info_languege": "Language"
+}
